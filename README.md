@@ -1,2 +1,2 @@
 # branch-test
-practice git branching 
+practing git branching and merging
